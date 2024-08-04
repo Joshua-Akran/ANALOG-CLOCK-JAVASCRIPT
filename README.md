@@ -1,2 +1,2 @@
 # ANALOG-CLOCK-JAVASCRIPT
-A clock created with mainly Javascript 
+A simple clock created mainly with Javascript 
